@@ -1,0 +1,13 @@
+com/zara/product/handler/TestController$TestFieldValidation.class
+com/zara/product/base/AbstractControllerTest$Resources.class
+com/zara/product/queries/GetPriceDetailsQueryHandlerTest.class
+com/zara/product/base/TestDataProvider.class
+com/zara/product/handler/ErrorResponseTest.class
+com/zara/product/handler/RestExceptionHandlerTest.class
+com/zara/product/base/AbstractControllerTest.class
+com/zara/product/handler/TestController.class
+com/zara/product/infrastructure/adapter/repository/PriceRepositoryAdapterTest.class
+com/zara/product/base/LocalDateTimeSerializer.class
+com/zara/product/ProductApplicationTests.class
+com/zara/product/base/LocalDateTimeDeserializer.class
+com/zara/product/infrastructure/adapter/rest/PriceControllerTest.class

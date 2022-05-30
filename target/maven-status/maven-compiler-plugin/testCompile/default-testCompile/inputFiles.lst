@@ -1,0 +1,11 @@
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/base/AbstractControllerTest.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/base/LocalDateTimeSerializer.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/handler/ErrorResponseTest.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/infrastructure/adapter/repository/PriceRepositoryAdapterTest.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/ProductApplicationTests.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/handler/TestController.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/base/LocalDateTimeDeserializer.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/base/TestDataProvider.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/infrastructure/adapter/rest/PriceControllerTest.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/handler/RestExceptionHandlerTest.java
+/home/francoispoirier/workspace/product/src/test/java/com/zara/product/queries/GetPriceDetailsQueryHandlerTest.java
