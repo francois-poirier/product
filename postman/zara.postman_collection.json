@@ -1,0 +1,231 @@
+{
+	"variables": [],
+	"info": {
+		"name": "zara",
+		"_postman_id": "e7b0519f-ac19-74c0-f45d-fb90deab9af5",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Test2",
+			"request": {
+				"url": {
+					"raw": "http://localhost:8080/api/v1/prices?applicationDate=2020-06-14%2016%3A00%3A00&productId=35455&brandId=1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"prices"
+					],
+					"query": [
+						{
+							"key": "applicationDate",
+							"value": "2020-06-14%2016%3A00%3A00",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "productId",
+							"value": "35455",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "brandId",
+							"value": "1",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Test3",
+			"request": {
+				"url": {
+					"raw": "http://localhost:8080/api/v1/prices?applicationDate=2020-06-14%2016%3A00%3A00&productId=35455&brandId=1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"prices"
+					],
+					"query": [
+						{
+							"key": "applicationDate",
+							"value": "2020-06-14%2016%3A00%3A00",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "productId",
+							"value": "35455",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "brandId",
+							"value": "1",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Test5",
+			"request": {
+				"url": {
+					"raw": "http://localhost:8080/api/v1/prices?applicationDate=2020-06-14%2016%3A00%3A00&productId=35455&brandId=1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"prices"
+					],
+					"query": [
+						{
+							"key": "applicationDate",
+							"value": "2020-06-14%2016%3A00%3A00",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "productId",
+							"value": "35455",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "brandId",
+							"value": "1",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Test1",
+			"request": {
+				"url": {
+					"raw": "http://localhost:8080/api/v1/prices?applicationDate=2020-06-14%2016%3A00%3A00&productId=35455&brandId=1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"prices"
+					],
+					"query": [
+						{
+							"key": "applicationDate",
+							"value": "2020-06-14%2016%3A00%3A00",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "productId",
+							"value": "35455",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "brandId",
+							"value": "1",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Test4",
+			"request": {
+				"url": {
+					"raw": "http://localhost:8080/api/v1/prices?applicationDate=2020-06-14%2016%3A00%3A00&productId=35455&brandId=1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"v1",
+						"prices"
+					],
+					"query": [
+						{
+							"key": "applicationDate",
+							"value": "2020-06-14%2016%3A00%3A00",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "productId",
+							"value": "35455",
+							"equals": true,
+							"description": ""
+						},
+						{
+							"key": "brandId",
+							"value": "1",
+							"equals": true,
+							"description": ""
+						}
+					],
+					"variable": []
+				},
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
